@@ -1,0 +1,29 @@
+.Result-layout{
+    background: #f6f6f6;
+    margin-top:30px;
+}
+
+.User-details{
+    margin-top:20px;
+    padding:50px;
+    background: white;
+  }
+  
+  .User-avatar{
+    height: 50px;
+    width: 50px;
+  }
+  
+  .total{
+    margin-left: 30px;
+    font:100;
+    font-weight: bold;
+    float: left;
+  }
+
+  .Details-button{
+      background: white;
+      color:#789cab;
+      padding:10px 25%;
+      border-radius: 10;
+  }
